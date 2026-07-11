@@ -1,0 +1,506 @@
+OrderID,Date,Region,Category,Product,Quantity,UnitPrice,TotalSales,CustomerAge,Rating
+ORD1000,2023-03-13,KPK,Furniture,Chair,7,228.46,1599.22,40.0,2.0
+ORD1001,2023-05-30,KPK,Toys,Doll,2,363.78,727.56,47.0,3.0
+ORD1002,2023-11-10,Punjab,Furniture,Chair,12,21.3,255.6,44.0,5.0
+ORD1003,2023-07-07,Balochistan,Clothing,Shoes,16,124.06,1984.96,64.0,5.0
+ORD1004,2023-11-16,Balochistan,Furniture,Sofa,3,431.37,1294.11,24.0,3.0
+ORD1005,2023-11-12,Punjab,Clothing,Shoes,14,406.11,5685.54,26.0,1.0
+ORD1006,2023-09-21,Balochistan,Clothing,Shoes,15,94.95,1424.25,34.0,4.0
+ORD1007,2023-09-17,Sindh,Furniture,Table,18,389.82,7016.76,51.0,4.0
+ORD1008,2023-07-09,Balochistan,Furniture,Table,8,423.82,3390.56,62.0,4.0
+ORD1009,2023-08-05,Sindh,Toys,Doll,13,79.05,1027.65,32.0,3.0
+ORD1010,2023-12-10,Punjab,Electronics,Headphones,1,107.37,107.37,41.0,1.0
+ORD1011,2023-10-16,KPK,Groceries,Rice,5,463.89,2319.45,58.0,5.0
+ORD1012,2023-02-02,Balochistan,Electronics,Smart Watch,16,191.7,3067.2,41.0,5.0
+ORD1013,2023-02-04,KPK,Furniture,Bed,1,197.63,197.63,64.0,5.0
+ORD1014,2023-09-12,Sindh,Electronics,Mobile Phone,14,251.96,3527.44,26.0,5.0
+ORD1015,2023-06-28,Balochistan,Clothing,Jeans,7,242.93,1700.51,49.0,5.0
+ORD1016,2023-05-23,Islamabad,Toys,Board Game,11,109.5,1204.5,30.0,2.0
+ORD1017,2023-03-07,Balochistan,Groceries,Cooking Oil,10,405.98,4059.8,23.0,4.0
+ORD1018,2023-10-13,Balochistan,Furniture,Bed,11,168.93,1858.23,45.0,4.0
+ORD1019,2023-10-10,Punjab,Electronics,Mobile Phone,13,431.76,5612.88,56.0,3.0
+ORD1020,2023-08-13,Islamabad,Groceries,Rice,19,142.01,2698.19,41.0,5.0
+ORD1021,2023-11-14,Punjab,Electronics,Smart Watch,17,134.42,2285.14,29.0,4.0
+ORD1022,2023-04-11,Punjab,Clothing,Jacket,17,498.89,8481.13,19.0,4.0
+ORD1023,2023-05-06,Punjab,Toys,Doll,2,270.16,540.32,43.0,
+ORD1024,2023-07-03,KPK,Furniture,Sofa,17,366.83,6236.11,41.0,4.0
+ORD1025,2023-08-28,KPK,Clothing,Jeans,16,419.3,6708.8,,5.0
+ORD1026,2023-12-12,Balochistan,Groceries,Sugar,3,406.66,1219.98,37.0,5.0
+ORD1027,2023-05-08,Punjab,Furniture,Chair,7,469.0,3283.0,18.0,5.0
+ORD1028,2023-05-31,Sindh,Electronics,Mobile Phone,10,136.39,1363.9,33.0,5.0
+ORD1029,2023-01-02,Balochistan,Electronics,Smart Watch,1,55.62,55.62,29.0,4.0
+ORD1030,2023-08-21,Punjab,Groceries,Cooking Oil,3,353.18,1059.54,33.0,5.0
+ORD1031,2023-03-16,Balochistan,Electronics,Smart Watch,17,89.2,1516.4,55.0,5.0
+ORD1032,2023-04-09,Punjab,Groceries,Sugar,18,88.8,1598.4,35.0,4.0
+ORD1033,2023-06-18,Islamabad,Groceries,Sugar,4,358.97,1435.88,50.0,4.0
+ORD1034,2023-05-08,KPK,Furniture,Bed,1,275.84,275.84,39.0,4.0
+ORD1035,2023-01-27,KPK,Toys,Board Game,2,181.54,363.08,50.0,4.0
+ORD1036,2023-11-13,Balochistan,Electronics,Mobile Phone,16,147.58,2361.28,52.0,5.0
+ORD1037,2023-06-07,Balochistan,Electronics,Smart Watch,14,458.28,6415.92,52.0,5.0
+ORD1038,2023-10-29,Islamabad,Toys,Doll,3,490.36,1471.08,38.0,3.0
+ORD1039,2023-05-08,KPK,Electronics,Smart Watch,18,282.83,5090.94,48.0,5.0
+ORD1040,2023-10-15,Sindh,Groceries,Sugar,15,495.13,7426.95,19.0,4.0
+ORD1041,2023-09-30,Sindh,Clothing,Jeans,8,351.54,2812.32,60.0,5.0
+ORD1042,2023-12-21,Sindh,Toys,Puzzle,18,434.87,7827.66,30.0,2.0
+ORD1043,2023-01-20,Islamabad,Electronics,Smart Watch,1,44.76,44.76,63.0,5.0
+ORD1044,2023-12-20,Balochistan,Furniture,Sofa,2,224.85,449.7,39.0,4.0
+ORD1045,2023-05-30,Islamabad,Clothing,Jacket,17,28.3,481.1,23.0,4.0
+ORD1046,2023-09-21,Islamabad,Groceries,Sugar,12,482.97,5795.64,56.0,2.0
+ORD1047,2023-12-16,Balochistan,Toys,Doll,15,352.76,5291.4,57.0,5.0
+ORD1048,2023-04-16,Balochistan,Toys,Puzzle,19,399.64,7593.16,36.0,4.0
+ORD1049,2023-04-27,Sindh,Clothing,Shirt,9,347.36,3126.24,18.0,3.0
+ORD1050,2023-04-06,Sindh,Electronics,Headphones,16,99.6,1593.6,62.0,4.0
+ORD1051,2023-10-05,Islamabad,Toys,Board Game,3,131.39,394.17,33.0,3.0
+ORD1052,2023-03-10,Balochistan,Electronics,Mobile Phone,15,29.96,449.4,,
+ORD1053,2023-12-07,Sindh,Toys,Doll,7,179.69,1257.83,47.0,5.0
+ORD1054,2023-04-10,Islamabad,Clothing,Jeans,2,137.84,275.68,27.0,5.0
+ORD1055,2023-11-21,Punjab,Clothing,Shoes,13,89.84,1167.92,41.0,5.0
+ORD1056,2023-06-09,Balochistan,Clothing,Shirt,12,200.2,2402.4,50.0,4.0
+ORD1057,2023-09-25,Islamabad,Groceries,Cooking Oil,3,412.01,1236.03,57.0,5.0
+ORD1058,2023-01-12,Islamabad,Furniture,Chair,14,18.93,265.02,52.0,4.0
+ORD1059,2023-03-31,Islamabad,Clothing,Shoes,2,137.74,275.48,24.0,3.0
+ORD1060,2023-03-16,Islamabad,Toys,Puzzle,4,214.79,859.16,53.0,3.0
+ORD1061,2023-06-26,KPK,Electronics,Smart Watch,3,212.18,636.54,35.0,4.0
+ORD1062,2023-07-02,Punjab,Toys,Doll,13,372.56,4843.28,52.0,3.0
+ORD1063,2023-08-05,Balochistan,Electronics,Mobile Phone,13,448.81,5834.53,53.0,1.0
+ORD1064,2023-09-22,Balochistan,Electronics,Headphones,7,478.83,3351.81,48.0,
+ORD1065,2023-03-10,Islamabad,Groceries,Flour,3,305.2,915.6,38.0,5.0
+ORD1066,2023-06-30,Islamabad,Electronics,Headphones,10,487.38,4873.8,31.0,4.0
+ORD1067,2023-08-23,Islamabad,Toys,Board Game,11,67.36,740.96,29.0,5.0
+ORD1068,2023-09-10,Punjab,Clothing,Shoes,6,51.21,307.26,30.0,3.0
+ORD1069,2023-05-02,KPK,Electronics,Laptop,2,49.86,99.72,54.0,3.0
+ORD1070,2023-05-25,Balochistan,Toys,Action Figure,7,493.14,3451.98,21.0,4.0
+ORD1071,2023-12-30,KPK,Furniture,Sofa,7,217.87,1525.09,43.0,4.0
+ORD1072,2023-08-30,Islamabad,Groceries,Rice,8,67.59,540.72,58.0,5.0
+ORD1073,2023-07-09,Balochistan,Groceries,Rice,17,50.62,860.54,50.0,3.0
+ORD1074,2023-06-09,Islamabad,Clothing,Shoes,13,31.15,404.95,38.0,1.0
+ORD1075,2023-08-17,Balochistan,Toys,Board Game,4,281.39,1125.56,37.0,2.0
+ORD1076,2023-02-23,Punjab,Electronics,Mobile Phone,3,451.57,1354.71,28.0,4.0
+ORD1077,2023-01-08,Balochistan,Furniture,Bed,4,237.21,948.84,45.0,2.0
+ORD1078,2023-05-25,KPK,Electronics,Smart Watch,9,161.67,1455.03,37.0,5.0
+ORD1079,2023-09-10,KPK,Toys,Action Figure,6,475.4,2852.4,22.0,5.0
+ORD1080,2023-09-08,Sindh,Clothing,Jeans,13,90.77,1180.01,50.0,5.0
+ORD1081,2023-09-24,Punjab,Clothing,Shoes,17,420.78,7153.26,51.0,1.0
+ORD1082,2023-07-16,Balochistan,Electronics,Mobile Phone,5,498.35,2491.75,40.0,5.0
+ORD1083,2023-03-24,Sindh,Toys,Puzzle,17,128.13,2178.21,26.0,3.0
+ORD1084,2023-09-17,Islamabad,Groceries,Rice,1,339.13,339.13,49.0,1.0
+ORD1085,2023-04-28,Sindh,Clothing,Jeans,3,264.88,794.64,29.0,5.0
+ORD1086,2023-11-09,KPK,Furniture,Chair,17,75.67,1286.39,64.0,4.0
+ORD1087,2023-03-16,Sindh,Toys,Action Figure,19,452.54,8598.26,51.0,4.0
+ORD1088,2023-11-04,KPK,Clothing,Jeans,6,230.95,1385.7,32.0,4.0
+ORD1089,2023-05-13,Punjab,Clothing,Jacket,4,235.08,940.32,34.0,4.0
+ORD1090,2023-02-03,Islamabad,Furniture,Bed,6,251.38,1508.28,30.0,3.0
+ORD1091,2023-04-21,KPK,Groceries,Sugar,16,84.43,1350.88,33.0,5.0
+ORD1092,2023-07-14,Punjab,Furniture,Bed,3,262.47,787.41,49.0,3.0
+ORD1093,2023-10-04,KPK,Clothing,Jacket,5,179.09,895.45,59.0,3.0
+ORD1094,2023-05-13,Punjab,Toys,Puzzle,9,184.44,1659.96,63.0,4.0
+ORD1095,2023-03-14,KPK,Clothing,Shirt,15,317.67,4765.05,64.0,4.0
+ORD1096,2023-12-03,Islamabad,Groceries,Cooking Oil,4,405.04,1620.16,52.0,3.0
+ORD1097,2023-12-31,Sindh,Clothing,Shoes,14,82.39,1153.46,24.0,5.0
+ORD1098,2023-10-01,Balochistan,Groceries,Cooking Oil,6,270.98,1625.88,32.0,3.0
+ORD1099,2023-02-08,Sindh,Toys,Doll,17,113.61,1931.37,43.0,4.0
+ORD1100,2023-07-31,Islamabad,Electronics,Mobile Phone,4,184.0,736.0,58.0,4.0
+ORD1101,2023-04-21,Sindh,Furniture,Sofa,8,297.4,2379.2,61.0,3.0
+ORD1102,2023-10-09,Balochistan,Electronics,Mobile Phone,2,129.73,259.46,62.0,4.0
+ORD1103,2023-05-30,Islamabad,Electronics,Mobile Phone,6,189.02,1134.12,21.0,5.0
+ORD1104,2023-08-31,KPK,Electronics,Headphones,8,351.51,2812.08,,3.0
+ORD1105,2023-03-16,Balochistan,Clothing,Shoes,4,12.6,50.4,47.0,3.0
+ORD1106,2023-07-13,Punjab,Groceries,Flour,15,272.17,4082.55,43.0,4.0
+ORD1107,2023-04-28,Sindh,Furniture,Chair,4,218.46,873.84,50.0,5.0
+ORD1108,2023-03-31,Punjab,Furniture,Sofa,14,151.43,2120.02,54.0,4.0
+ORD1109,2023-09-16,KPK,Furniture,Chair,1,190.92,190.92,27.0,4.0
+ORD1110,2023-01-13,Sindh,Clothing,Shoes,8,406.84,3254.72,18.0,3.0
+ORD1111,2023-02-07,Punjab,Electronics,Mobile Phone,3,180.95,542.85,22.0,5.0
+ORD1112,2023-05-17,Islamabad,Furniture,Table,2,98.8,197.6,52.0,5.0
+ORD1113,2023-11-24,Islamabad,Furniture,Bed,11,399.68,4396.48,31.0,5.0
+ORD1114,2023-01-05,Islamabad,Groceries,Rice,19,335.95,6383.05,43.0,5.0
+ORD1115,2023-03-30,Sindh,Electronics,Mobile Phone,18,410.13,7382.34,56.0,5.0
+ORD1116,2023-01-23,Punjab,Groceries,Rice,15,292.97,4394.55,34.0,5.0
+ORD1117,2023-04-14,Islamabad,Clothing,Jeans,8,315.88,2527.04,23.0,5.0
+ORD1118,2023-01-15,Sindh,Groceries,Sugar,15,313.84,4707.6,47.0,5.0
+ORD1119,2023-04-07,Punjab,Furniture,Chair,5,391.5,1957.5,50.0,1.0
+ORD1120,2023-05-03,Islamabad,Clothing,Jeans,10,177.62,1776.2,55.0,4.0
+ORD1121,2023-07-03,Balochistan,Furniture,Chair,15,400.67,6010.05,22.0,4.0
+ORD1122,2023-05-10,Islamabad,Furniture,Bed,19,350.03,6650.57,53.0,5.0
+ORD1123,2023-01-11,Balochistan,Groceries,Rice,10,177.84,1778.4,23.0,4.0
+ORD1124,2023-08-06,KPK,Clothing,Jeans,13,78.17,1016.21,35.0,5.0
+ORD1125,2023-12-22,Balochistan,Furniture,Sofa,16,351.36,5621.76,54.0,5.0
+ORD1126,2023-10-14,Balochistan,Clothing,Shirt,9,217.82,1960.38,46.0,3.0
+ORD1127,2023-09-14,KPK,Electronics,Laptop,14,125.59,1758.26,43.0,5.0
+ORD1128,2023-05-29,KPK,Electronics,Mobile Phone,15,36.83,552.45,26.0,3.0
+ORD1129,2023-10-18,Sindh,Electronics,Mobile Phone,11,462.25,5084.75,24.0,4.0
+ORD1130,2023-05-08,Punjab,Clothing,Jacket,11,26.09,286.99,41.0,4.0
+ORD1131,2023-12-10,Islamabad,Furniture,Table,1,187.57,187.57,60.0,5.0
+ORD1132,2023-02-18,Islamabad,Furniture,Table,7,488.02,3416.14,58.0,3.0
+ORD1133,2023-12-26,Islamabad,Furniture,Sofa,17,156.8,2665.6,49.0,2.0
+ORD1134,2023-11-14,KPK,Groceries,Cooking Oil,17,27.91,474.47,47.0,5.0
+ORD1135,2023-03-19,Punjab,Groceries,Flour,19,232.11,4410.09,19.0,4.0
+ORD1136,2023-11-15,KPK,Electronics,Laptop,4,99.14,396.56,46.0,2.0
+ORD1137,2023-06-11,Sindh,Groceries,Sugar,1,22.44,22.44,45.0,5.0
+ORD1138,2023-11-09,Punjab,Toys,Doll,3,123.23,369.69,25.0,3.0
+ORD1139,2023-04-07,KPK,Toys,Board Game,15,363.2,5448.0,52.0,3.0
+ORD1140,2023-06-14,Balochistan,Groceries,Sugar,14,153.64,2150.96,35.0,1.0
+ORD1141,2023-05-27,Islamabad,Electronics,Headphones,16,98.9,1582.4,,5.0
+ORD1142,2023-10-30,Punjab,Clothing,Jeans,5,177.49,887.45,59.0,5.0
+ORD1143,2023-01-20,Balochistan,Groceries,Cooking Oil,5,179.14,895.7,47.0,4.0
+ORD1144,2023-12-08,KPK,Toys,Doll,12,78.66,943.92,27.0,4.0
+ORD1145,2023-04-25,Punjab,Groceries,Flour,17,141.65,2408.05,57.0,5.0
+ORD1146,2023-09-03,Punjab,Electronics,Headphones,11,216.63,2382.93,43.0,4.0
+ORD1147,2023-03-16,Islamabad,Toys,Puzzle,6,458.01,2748.06,38.0,5.0
+ORD1148,2023-01-17,Sindh,Electronics,Laptop,5,329.2,1646.0,29.0,3.0
+ORD1149,2023-01-27,Islamabad,Clothing,Jeans,6,368.77,2212.62,51.0,5.0
+ORD1150,2023-06-22,Sindh,Electronics,Mobile Phone,17,215.2,3658.4,45.0,5.0
+ORD1151,2023-07-12,KPK,Clothing,Shoes,19,54.27,1031.13,43.0,2.0
+ORD1152,2023-06-13,KPK,Groceries,Sugar,17,363.55,6180.35,57.0,4.0
+ORD1153,2023-11-08,Islamabad,Clothing,Jacket,1,142.26,142.26,64.0,4.0
+ORD1154,2023-12-03,KPK,Groceries,Sugar,13,85.79,1115.27,26.0,5.0
+ORD1155,2023-10-23,Punjab,Toys,Action Figure,17,212.27,3608.59,60.0,4.0
+ORD1156,2023-05-11,KPK,Electronics,Headphones,18,401.71,7230.78,61.0,
+ORD1157,2023-04-11,KPK,Clothing,Shoes,12,405.64,4867.68,34.0,
+ORD1158,2023-11-14,Balochistan,Electronics,Headphones,16,437.74,7003.84,25.0,5.0
+ORD1159,2023-07-17,Islamabad,Electronics,Headphones,8,132.34,1058.72,42.0,5.0
+ORD1160,2023-12-31,Punjab,Groceries,Flour,15,31.64,474.6,33.0,5.0
+ORD1161,2023-09-27,Sindh,Clothing,Shirt,15,351.74,5276.1,26.0,3.0
+ORD1162,2023-03-23,Islamabad,Clothing,Jacket,7,233.02,1631.14,59.0,5.0
+ORD1163,2023-10-28,Balochistan,Groceries,Sugar,2,443.65,887.3,60.0,4.0
+ORD1164,2023-01-04,Punjab,Furniture,Sofa,13,316.69,4116.97,33.0,4.0
+ORD1165,2023-11-07,Sindh,Furniture,Table,3,436.35,1309.05,47.0,1.0
+ORD1166,2023-04-06,Sindh,Toys,Action Figure,3,44.31,132.93,63.0,4.0
+ORD1167,2023-08-24,Islamabad,Electronics,Mobile Phone,16,438.1,7009.6,64.0,4.0
+ORD1168,2023-03-06,Balochistan,Electronics,Headphones,17,64.13,1090.21,31.0,4.0
+ORD1169,2023-10-20,Sindh,Clothing,Shoes,16,18.76,300.16,63.0,1.0
+ORD1170,2023-05-20,Balochistan,Electronics,Mobile Phone,5,395.31,1976.55,60.0,4.0
+ORD1171,2023-08-14,Islamabad,Groceries,Flour,7,495.67,3469.69,25.0,5.0
+ORD1172,2023-11-26,Islamabad,Toys,Board Game,11,96.5,1061.5,43.0,1.0
+ORD1173,2023-09-18,Islamabad,Clothing,Jacket,15,116.0,1740.0,,5.0
+ORD1174,2023-06-27,Islamabad,Clothing,Shirt,18,351.05,6318.9,41.0,5.0
+ORD1175,2023-04-30,Islamabad,Groceries,Flour,15,27.08,406.2,21.0,4.0
+ORD1176,2023-11-19,Punjab,Clothing,Jacket,9,31.74,285.66,51.0,5.0
+ORD1177,2023-09-18,Punjab,Electronics,Headphones,11,52.62,578.82,41.0,4.0
+ORD1178,2023-02-06,Sindh,Groceries,Rice,16,344.8,5516.8,22.0,
+ORD1179,2023-08-12,Islamabad,Clothing,Shoes,19,414.09,7867.71,57.0,5.0
+ORD1180,2023-10-16,Islamabad,Groceries,Rice,6,265.42,1592.52,33.0,5.0
+ORD1181,2023-10-31,KPK,Electronics,Headphones,9,173.66,1562.94,62.0,5.0
+ORD1182,2023-07-07,KPK,Clothing,Shoes,7,442.0,3094.0,,5.0
+ORD1183,2023-06-09,Sindh,Groceries,Cooking Oil,11,122.03,1342.33,56.0,3.0
+ORD1184,2023-01-12,Islamabad,Furniture,Table,7,104.64,732.48,30.0,5.0
+ORD1185,2023-12-26,Punjab,Electronics,Mobile Phone,2,320.66,641.32,41.0,5.0
+ORD1186,2023-08-21,Sindh,Groceries,Flour,2,177.52,355.04,32.0,5.0
+ORD1187,2023-12-18,Balochistan,Toys,Puzzle,4,43.24,172.96,44.0,3.0
+ORD1188,2023-07-12,Punjab,Furniture,Table,18,437.05,7866.9,64.0,
+ORD1189,2023-01-07,KPK,Furniture,Sofa,11,412.54,4537.94,64.0,4.0
+ORD1190,2023-01-26,Sindh,Groceries,Cooking Oil,2,144.08,288.16,46.0,5.0
+ORD1191,2023-02-08,Punjab,Groceries,Rice,15,399.46,5991.9,46.0,4.0
+ORD1192,2023-01-22,Balochistan,Clothing,Jacket,11,143.9,1582.9,34.0,
+ORD1193,2023-10-30,Islamabad,Furniture,Chair,16,430.11,6881.76,37.0,4.0
+ORD1194,2023-09-14,KPK,Electronics,Mobile Phone,6,122.68,736.08,52.0,1.0
+ORD1195,2023-10-01,Balochistan,Electronics,Smart Watch,15,241.05,3615.75,44.0,
+ORD1196,2023-11-05,Islamabad,Electronics,Mobile Phone,8,387.75,3102.0,63.0,4.0
+ORD1197,2023-06-30,Balochistan,Groceries,Rice,3,100.87,302.61,32.0,4.0
+ORD1198,2023-12-06,Balochistan,Electronics,Laptop,4,283.62,1134.48,39.0,4.0
+ORD1199,2023-03-05,KPK,Toys,Puzzle,13,83.29,1082.77,38.0,2.0
+ORD1200,2023-10-28,KPK,Clothing,Jeans,1,476.8,476.8,58.0,1.0
+ORD1201,2023-03-17,Punjab,Groceries,Sugar,14,79.82,1117.48,33.0,4.0
+ORD1202,2023-07-21,Punjab,Furniture,Bed,8,14.79,118.32,50.0,4.0
+ORD1203,2023-03-18,Islamabad,Electronics,Mobile Phone,7,75.03,525.21,56.0,3.0
+ORD1204,2023-04-16,Sindh,Clothing,Jeans,12,61.24,734.88,28.0,3.0
+ORD1205,2023-09-19,Punjab,Groceries,Flour,9,35.47,319.23,49.0,4.0
+ORD1206,2023-12-14,Sindh,Furniture,Bed,15,409.26,6138.9,24.0,5.0
+ORD1207,2023-01-22,Sindh,Furniture,Table,3,29.97,89.91,59.0,4.0
+ORD1208,2023-03-28,Balochistan,Clothing,Jeans,12,88.18,1058.16,62.0,5.0
+ORD1209,2023-06-22,Balochistan,Groceries,Cooking Oil,8,437.2,3497.6,49.0,4.0
+ORD1210,2023-07-30,Sindh,Clothing,Jeans,5,498.2,2491.0,58.0,4.0
+ORD1211,2023-02-04,KPK,Furniture,Table,15,136.26,2043.9,29.0,3.0
+ORD1212,2023-01-24,Sindh,Toys,Board Game,5,179.51,897.55,61.0,5.0
+ORD1213,2023-06-26,Sindh,Furniture,Bed,19,293.55,5577.45,53.0,1.0
+ORD1214,2023-03-07,Balochistan,Clothing,Shoes,15,451.34,6770.1,23.0,5.0
+ORD1215,2023-09-03,Sindh,Groceries,Cooking Oil,12,198.09,2377.08,35.0,5.0
+ORD1216,2023-01-08,Sindh,Electronics,Headphones,4,455.43,1821.72,40.0,5.0
+ORD1217,2023-11-21,Islamabad,Clothing,Jacket,6,251.22,1507.32,64.0,4.0
+ORD1218,2023-08-19,Sindh,Electronics,Smart Watch,6,329.54,1977.24,42.0,
+ORD1219,2023-09-18,Islamabad,Clothing,Jacket,1,389.0,389.0,53.0,
+ORD1220,2023-04-28,KPK,Groceries,Flour,14,172.14,2409.96,46.0,4.0
+ORD1221,2023-10-03,Islamabad,Electronics,Mobile Phone,8,312.4,2499.2,18.0,4.0
+ORD1222,2023-04-17,Punjab,Furniture,Bed,5,184.8,924.0,29.0,4.0
+ORD1223,2023-11-08,Balochistan,Electronics,Smart Watch,15,435.45,6531.75,61.0,4.0
+ORD1224,2023-10-20,Sindh,Furniture,Table,1,69.83,69.83,23.0,3.0
+ORD1225,2023-06-28,Punjab,Groceries,Rice,14,347.22,4861.08,37.0,
+ORD1226,2023-08-05,Sindh,Groceries,Cooking Oil,18,486.82,8762.76,56.0,4.0
+ORD1227,2023-10-21,Balochistan,Groceries,Flour,13,80.34,1044.42,59.0,5.0
+ORD1228,2023-09-21,Punjab,Clothing,Shirt,6,435.39,2612.34,,4.0
+ORD1229,2023-04-24,Sindh,Electronics,Headphones,18,312.75,5629.5,25.0,5.0
+ORD1230,2023-11-24,KPK,Electronics,Smart Watch,14,460.15,6442.1,18.0,3.0
+ORD1231,2023-12-27,Islamabad,Toys,Doll,2,499.71,999.42,23.0,4.0
+ORD1232,2023-06-25,Punjab,Electronics,Mobile Phone,13,393.37,5113.81,30.0,4.0
+ORD1233,2023-04-12,Sindh,Groceries,Sugar,14,463.58,6490.12,36.0,5.0
+ORD1234,2023-10-06,Punjab,Clothing,Shirt,19,435.76,8279.44,18.0,3.0
+ORD1235,2023-03-17,Punjab,Electronics,Mobile Phone,7,286.09,2002.63,36.0,4.0
+ORD1236,2023-08-12,Punjab,Electronics,Mobile Phone,17,227.77,3872.09,55.0,2.0
+ORD1237,2023-09-22,Sindh,Groceries,Sugar,3,275.76,827.28,25.0,4.0
+ORD1238,2023-06-03,Islamabad,Furniture,Chair,12,83.01,996.12,54.0,3.0
+ORD1239,2023-12-09,KPK,Furniture,Sofa,6,375.97,2255.82,61.0,
+ORD1240,2023-12-02,KPK,Toys,Action Figure,15,44.93,673.95,32.0,3.0
+ORD1241,2023-10-04,Balochistan,Groceries,Cooking Oil,13,182.3,2369.9,51.0,3.0
+ORD1242,2023-02-21,Islamabad,Furniture,Bed,14,160.57,2247.98,64.0,4.0
+ORD1243,2023-01-02,Sindh,Clothing,Shoes,17,488.6,8306.2,43.0,3.0
+ORD1244,2023-03-15,Balochistan,Groceries,Cooking Oil,7,267.33,1871.31,24.0,4.0
+ORD1245,2023-10-25,Islamabad,Electronics,Laptop,4,218.02,872.08,24.0,5.0
+ORD1246,2023-12-28,Islamabad,Furniture,Bed,15,476.19,7142.85,39.0,5.0
+ORD1247,2023-01-09,Sindh,Furniture,Chair,15,309.38,4640.7,59.0,5.0
+ORD1248,2023-10-20,KPK,Electronics,Laptop,4,144.65,578.6,36.0,5.0
+ORD1249,2023-06-13,Sindh,Clothing,Shirt,10,231.37,2313.7,22.0,3.0
+ORD1250,2023-06-10,Sindh,Groceries,Sugar,17,97.44,1656.48,54.0,5.0
+ORD1251,2023-05-18,KPK,Furniture,Sofa,9,201.54,1813.86,42.0,
+ORD1252,2023-05-26,Islamabad,Groceries,Cooking Oil,3,226.93,680.79,56.0,5.0
+ORD1253,2023-10-29,Balochistan,Groceries,Cooking Oil,19,305.58,5806.02,55.0,4.0
+ORD1254,2023-08-20,Balochistan,Toys,Puzzle,5,448.15,2240.75,20.0,4.0
+ORD1255,2023-07-15,Punjab,Electronics,Headphones,13,264.34,3436.42,19.0,5.0
+ORD1256,2023-09-21,Islamabad,Furniture,Sofa,6,300.48,1802.88,20.0,4.0
+ORD1257,2023-12-08,KPK,Toys,Puzzle,6,35.65,213.9,61.0,5.0
+ORD1258,2023-10-13,Sindh,Electronics,Headphones,8,294.43,2355.44,53.0,
+ORD1259,2023-11-07,Punjab,Toys,Board Game,16,210.64,3370.24,47.0,4.0
+ORD1260,2023-05-16,Balochistan,Furniture,Chair,3,464.32,1392.96,62.0,3.0
+ORD1261,2023-12-26,Islamabad,Groceries,Sugar,12,129.39,1552.68,47.0,4.0
+ORD1262,2023-09-29,Punjab,Clothing,Shoes,12,393.19,4718.28,51.0,2.0
+ORD1263,2023-08-25,Sindh,Furniture,Chair,2,196.65,393.3,19.0,5.0
+ORD1264,2023-11-19,KPK,Electronics,Mobile Phone,4,437.93,1751.72,23.0,5.0
+ORD1265,2023-04-11,Balochistan,Groceries,Cooking Oil,10,255.56,2555.6,59.0,4.0
+ORD1266,2023-06-07,Sindh,Toys,Board Game,14,404.9,5668.6,,3.0
+ORD1267,2023-06-12,Islamabad,Electronics,Headphones,2,85.36,170.72,52.0,4.0
+ORD1268,2023-01-25,Sindh,Furniture,Table,2,74.94,149.88,50.0,5.0
+ORD1269,2023-01-25,Islamabad,Electronics,Laptop,13,190.09,2471.17,25.0,4.0
+ORD1270,2023-06-22,Balochistan,Furniture,Chair,12,483.25,5799.0,49.0,4.0
+ORD1271,2023-11-12,Islamabad,Furniture,Table,6,10.16,60.96,,5.0
+ORD1272,2023-10-14,KPK,Furniture,Sofa,19,286.58,5445.02,51.0,4.0
+ORD1273,2023-06-27,KPK,Clothing,Jeans,15,492.0,7380.0,36.0,3.0
+ORD1274,2023-07-09,Balochistan,Toys,Action Figure,14,59.51,833.14,33.0,5.0
+ORD1275,2023-04-13,Balochistan,Electronics,Smart Watch,8,408.85,3270.8,56.0,3.0
+ORD1276,2023-05-04,Balochistan,Toys,Doll,6,218.78,1312.68,54.0,5.0
+ORD1277,2023-04-02,KPK,Toys,Board Game,14,96.67,1353.38,39.0,
+ORD1278,2023-09-03,KPK,Clothing,Jeans,6,137.31,823.86,27.0,5.0
+ORD1279,2023-08-01,Islamabad,Toys,Action Figure,18,318.36,5730.48,35.0,2.0
+ORD1280,2023-07-07,KPK,Furniture,Chair,11,232.64,2559.04,,3.0
+ORD1281,2023-03-23,Balochistan,Clothing,Shoes,8,407.24,3257.92,46.0,4.0
+ORD1282,2023-04-23,Sindh,Clothing,Shirt,9,60.05,540.45,26.0,5.0
+ORD1283,2023-04-07,Islamabad,Clothing,Shoes,10,465.86,4658.6,57.0,4.0
+ORD1284,2023-09-21,Sindh,Groceries,Cooking Oil,8,121.21,969.68,34.0,2.0
+ORD1285,2023-03-28,Islamabad,Toys,Board Game,5,33.44,167.2,25.0,2.0
+ORD1286,2023-06-01,Islamabad,Groceries,Rice,17,478.69,8137.73,38.0,4.0
+ORD1287,2023-07-30,Balochistan,Furniture,Sofa,7,394.08,2758.56,60.0,4.0
+ORD1288,2023-02-07,Sindh,Toys,Puzzle,15,50.26,753.9,45.0,5.0
+ORD1289,2023-02-18,Sindh,Electronics,Mobile Phone,4,311.36,1245.44,31.0,2.0
+ORD1290,2023-09-23,Sindh,Electronics,Laptop,4,153.48,613.92,57.0,3.0
+ORD1291,2023-08-14,Balochistan,Toys,Action Figure,11,31.43,345.73,34.0,5.0
+ORD1292,2023-11-30,KPK,Electronics,Mobile Phone,18,472.11,8497.98,47.0,5.0
+ORD1293,2023-06-23,KPK,Furniture,Bed,17,326.45,5549.65,52.0,5.0
+ORD1294,2023-01-18,Punjab,Electronics,Smart Watch,13,118.32,1538.16,25.0,5.0
+ORD1295,2023-09-13,KPK,Furniture,Bed,11,141.97,1561.67,45.0,1.0
+ORD1296,2023-08-01,Islamabad,Clothing,Jeans,15,55.02,825.3,48.0,4.0
+ORD1297,2023-07-08,KPK,Furniture,Chair,1,259.1,259.1,36.0,3.0
+ORD1298,2023-05-08,Punjab,Furniture,Sofa,5,88.44,442.2,59.0,4.0
+ORD1299,2023-01-03,Islamabad,Electronics,Smart Watch,1,146.17,146.17,,4.0
+ORD1300,2023-01-10,KPK,Clothing,Jeans,14,311.83,4365.62,44.0,5.0
+ORD1301,2023-03-27,Balochistan,Toys,Action Figure,10,382.89,3828.9,29.0,5.0
+ORD1302,2023-01-20,Islamabad,Electronics,Laptop,11,380.57,4186.27,48.0,4.0
+ORD1303,2023-05-12,Sindh,Groceries,Rice,15,229.82,3447.3,37.0,5.0
+ORD1304,2023-08-18,Islamabad,Groceries,Flour,8,97.4,779.2,27.0,5.0
+ORD1305,2023-01-20,Punjab,Furniture,Bed,17,298.22,5069.74,21.0,4.0
+ORD1306,2023-12-02,Islamabad,Groceries,Sugar,4,35.87,143.48,41.0,5.0
+ORD1307,2023-03-01,Balochistan,Clothing,Jacket,19,254.15,4828.85,63.0,3.0
+ORD1308,2023-04-27,Sindh,Toys,Doll,4,263.46,1053.84,62.0,3.0
+ORD1309,2023-05-26,Punjab,Electronics,Headphones,17,303.13,5153.21,64.0,
+ORD1310,2023-06-10,Islamabad,Furniture,Table,17,322.4,5480.8,37.0,5.0
+ORD1311,2023-03-16,Balochistan,Groceries,Cooking Oil,7,290.22,2031.54,33.0,3.0
+ORD1312,2023-02-19,Sindh,Furniture,Chair,3,22.84,68.52,47.0,5.0
+ORD1313,2023-12-31,Punjab,Toys,Puzzle,19,470.93,8947.67,59.0,5.0
+ORD1314,2023-12-15,Islamabad,Clothing,Jacket,5,245.64,1228.2,38.0,4.0
+ORD1315,2023-09-17,Sindh,Toys,Doll,7,452.92,3170.44,,4.0
+ORD1316,2023-07-01,Punjab,Electronics,Smart Watch,14,309.01,4326.14,48.0,5.0
+ORD1317,2023-12-30,Islamabad,Electronics,Smart Watch,10,148.27,1482.7,45.0,4.0
+ORD1318,2023-12-02,Sindh,Furniture,Table,16,382.11,6113.76,59.0,5.0
+ORD1319,2023-08-16,Islamabad,Furniture,Chair,11,40.7,447.7,60.0,3.0
+ORD1320,2023-01-07,Punjab,Furniture,Table,6,450.92,2705.52,35.0,5.0
+ORD1321,2023-06-03,Islamabad,Groceries,Sugar,12,395.98,4751.76,31.0,5.0
+ORD1322,2023-03-10,Sindh,Clothing,Shirt,3,365.33,1095.99,54.0,4.0
+ORD1323,2023-12-07,Punjab,Groceries,Cooking Oil,12,181.26,2175.12,58.0,1.0
+ORD1324,2023-11-23,Sindh,Toys,Doll,1,266.46,266.46,51.0,4.0
+ORD1325,2023-01-17,Punjab,Groceries,Rice,2,50.05,100.1,23.0,5.0
+ORD1326,2023-01-02,Islamabad,Clothing,Shirt,16,115.88,1854.08,27.0,4.0
+ORD1327,2023-12-10,Balochistan,Groceries,Rice,15,261.13,3916.95,27.0,
+ORD1328,2023-02-01,Punjab,Groceries,Cooking Oil,7,437.35,3061.45,43.0,4.0
+ORD1329,2023-03-20,Islamabad,Furniture,Table,14,127.01,1778.14,58.0,4.0
+ORD1330,2023-03-07,Punjab,Furniture,Table,3,455.52,1366.56,50.0,4.0
+ORD1331,2023-10-06,Balochistan,Groceries,Flour,18,55.77,1003.86,22.0,
+ORD1332,2023-10-24,Balochistan,Furniture,Table,4,145.46,581.84,25.0,5.0
+ORD1333,2023-09-25,Balochistan,Clothing,Jeans,2,165.21,330.42,20.0,4.0
+ORD1334,2023-02-09,KPK,Groceries,Flour,6,78.95,473.7,18.0,1.0
+ORD1335,2023-06-25,Balochistan,Toys,Doll,11,163.45,1797.95,47.0,5.0
+ORD1336,2023-01-12,Punjab,Groceries,Sugar,11,257.55,2833.05,33.0,
+ORD1337,2023-01-21,Islamabad,Toys,Board Game,13,168.28,2187.64,45.0,5.0
+ORD1338,2023-11-21,KPK,Groceries,Cooking Oil,3,268.43,805.29,42.0,5.0
+ORD1339,2023-08-15,Islamabad,Clothing,Jeans,9,411.34,3702.06,23.0,5.0
+ORD1340,2023-12-30,KPK,Furniture,Chair,12,163.89,1966.68,41.0,4.0
+ORD1341,2023-10-13,Balochistan,Groceries,Sugar,16,358.89,5742.24,43.0,3.0
+ORD1342,2023-02-03,Balochistan,Toys,Board Game,9,372.44,3351.96,,5.0
+ORD1343,2023-11-21,Punjab,Electronics,Headphones,12,240.93,2891.16,32.0,4.0
+ORD1344,2023-09-29,Islamabad,Electronics,Smart Watch,2,169.3,338.6,57.0,1.0
+ORD1345,2023-01-01,Balochistan,Electronics,Smart Watch,8,45.61,364.88,20.0,5.0
+ORD1346,2023-08-15,Islamabad,Electronics,Headphones,14,382.03,5348.42,53.0,5.0
+ORD1347,2023-11-29,Balochistan,Electronics,Headphones,15,137.54,2063.1,50.0,5.0
+ORD1348,2023-04-01,KPK,Groceries,Cooking Oil,2,229.06,458.12,55.0,3.0
+ORD1349,2023-05-27,KPK,Toys,Doll,14,244.74,3426.36,42.0,4.0
+ORD1350,2023-03-24,Punjab,Clothing,Jeans,14,456.28,6387.92,59.0,5.0
+ORD1351,2023-11-23,Islamabad,Furniture,Bed,14,366.07,5124.98,36.0,5.0
+ORD1352,2023-10-13,Balochistan,Toys,Action Figure,9,16.08,144.72,42.0,5.0
+ORD1353,2023-11-30,Punjab,Toys,Board Game,9,33.59,302.31,21.0,5.0
+ORD1354,2023-04-20,Islamabad,Clothing,Shirt,9,494.62,4451.58,33.0,3.0
+ORD1355,2023-02-04,Balochistan,Electronics,Smart Watch,11,497.76,5475.36,38.0,4.0
+ORD1356,2023-12-23,Balochistan,Toys,Doll,3,249.3,747.9,26.0,5.0
+ORD1357,2023-08-04,Punjab,Furniture,Sofa,1,22.32,22.32,40.0,4.0
+ORD1358,2023-06-23,Balochistan,Furniture,Table,15,77.39,1160.85,36.0,5.0
+ORD1359,2023-11-03,Islamabad,Toys,Puzzle,6,299.93,1799.58,46.0,5.0
+ORD1360,2023-03-17,Balochistan,Furniture,Bed,13,485.68,6313.84,61.0,
+ORD1361,2023-09-14,Punjab,Clothing,Jacket,8,320.71,2565.68,23.0,5.0
+ORD1362,2023-09-25,Islamabad,Clothing,Shirt,6,32.37,194.22,25.0,3.0
+ORD1363,2023-04-03,Punjab,Clothing,Shirt,13,246.2,3200.6,57.0,4.0
+ORD1364,2023-05-21,Punjab,Toys,Doll,6,428.53,2571.18,25.0,1.0
+ORD1365,2023-10-22,Sindh,Furniture,Chair,17,117.07,1990.19,59.0,4.0
+ORD1366,2023-11-01,Islamabad,Electronics,Mobile Phone,9,410.92,3698.28,38.0,4.0
+ORD1367,2023-07-11,Islamabad,Electronics,Headphones,11,31.98,351.78,28.0,3.0
+ORD1368,2023-01-19,Balochistan,Toys,Action Figure,12,442.31,5307.72,62.0,5.0
+ORD1369,2023-04-13,Sindh,Electronics,Mobile Phone,5,10.77,53.85,44.0,1.0
+ORD1370,2023-06-24,Punjab,Toys,Board Game,18,135.78,2444.04,21.0,4.0
+ORD1371,2023-05-27,Islamabad,Furniture,Table,15,215.28,3229.2,37.0,5.0
+ORD1372,2023-05-23,KPK,Furniture,Table,9,471.45,4243.05,46.0,5.0
+ORD1373,2023-09-23,KPK,Clothing,Jacket,14,321.69,4503.66,26.0,5.0
+ORD1374,2023-06-04,Balochistan,Furniture,Sofa,2,269.7,539.4,20.0,4.0
+ORD1375,2023-09-25,Punjab,Clothing,Shirt,3,229.94,689.82,62.0,4.0
+ORD1376,2023-05-07,Punjab,Toys,Action Figure,6,424.35,2546.1,60.0,4.0
+ORD1377,2023-05-02,Punjab,Groceries,Rice,12,401.21,4814.52,20.0,4.0
+ORD1378,2023-03-04,Punjab,Furniture,Sofa,8,445.93,3567.44,49.0,4.0
+ORD1379,2023-06-16,Balochistan,Electronics,Laptop,2,91.76,183.52,54.0,5.0
+ORD1380,2023-07-12,Punjab,Toys,Doll,15,85.69,1285.35,46.0,4.0
+ORD1381,2023-05-06,KPK,Clothing,Shoes,11,162.5,1787.5,55.0,5.0
+ORD1382,2023-07-23,Balochistan,Clothing,Shoes,6,232.46,1394.76,21.0,3.0
+ORD1383,2023-03-08,KPK,Clothing,Shirt,11,76.54,841.94,43.0,1.0
+ORD1384,2023-08-22,KPK,Groceries,Sugar,19,21.44,407.36,32.0,4.0
+ORD1385,2023-05-05,Sindh,Clothing,Shirt,5,478.4,2392.0,54.0,4.0
+ORD1386,2023-07-20,Balochistan,Furniture,Table,17,53.22,904.74,64.0,3.0
+ORD1387,2023-03-10,Balochistan,Electronics,Mobile Phone,5,244.16,1220.8,30.0,4.0
+ORD1388,2023-02-11,KPK,Toys,Board Game,2,137.07,274.14,38.0,4.0
+ORD1389,2023-05-19,Balochistan,Furniture,Chair,7,276.97,1938.79,18.0,4.0
+ORD1390,2023-04-21,Islamabad,Toys,Board Game,2,249.56,499.12,34.0,5.0
+ORD1391,2023-06-01,Punjab,Clothing,Shoes,19,108.64,2064.16,38.0,3.0
+ORD1392,2023-06-13,Islamabad,Toys,Action Figure,19,74.86,1422.34,44.0,5.0
+ORD1393,2023-02-16,Islamabad,Groceries,Flour,12,28.61,343.32,28.0,4.0
+ORD1394,2023-02-15,Balochistan,Toys,Action Figure,12,485.11,5821.32,36.0,4.0
+ORD1395,2023-12-18,Balochistan,Furniture,Bed,6,298.48,1790.88,53.0,4.0
+ORD1396,2023-07-22,KPK,Electronics,Laptop,19,292.87,5564.53,31.0,4.0
+ORD1397,2023-12-31,Balochistan,Furniture,Sofa,3,108.23,324.69,26.0,2.0
+ORD1398,2023-08-13,Punjab,Toys,Action Figure,8,40.6,324.8,55.0,4.0
+ORD1399,2023-10-14,Islamabad,Toys,Action Figure,16,383.67,6138.72,39.0,5.0
+ORD1400,2023-10-25,Sindh,Groceries,Cooking Oil,16,411.7,6587.2,58.0,4.0
+ORD1401,2023-01-19,KPK,Electronics,Laptop,18,341.64,6149.52,57.0,4.0
+ORD1402,2023-01-25,Balochistan,Groceries,Rice,5,372.83,1864.15,54.0,1.0
+ORD1403,2023-05-07,Punjab,Toys,Doll,1,424.5,424.5,19.0,3.0
+ORD1404,2023-12-24,Balochistan,Electronics,Laptop,11,180.92,1990.12,20.0,5.0
+ORD1405,2023-02-14,Sindh,Toys,Action Figure,19,266.06,5055.14,33.0,5.0
+ORD1406,2023-08-22,Sindh,Electronics,Headphones,16,244.35,3909.6,19.0,2.0
+ORD1407,2023-10-17,Balochistan,Toys,Doll,7,206.64,1446.48,40.0,5.0
+ORD1408,2023-08-19,Islamabad,Groceries,Flour,7,120.75,845.25,58.0,3.0
+ORD1409,2023-02-22,KPK,Toys,Action Figure,19,327.43,6221.17,39.0,3.0
+ORD1410,2023-02-23,Balochistan,Clothing,Jeans,18,128.55,2313.9,45.0,3.0
+ORD1411,2023-07-24,Balochistan,Toys,Doll,8,142.99,1143.92,48.0,4.0
+ORD1412,2023-05-07,Sindh,Clothing,Shoes,11,143.06,1573.66,32.0,3.0
+ORD1413,2023-06-03,Islamabad,Electronics,Laptop,18,145.32,2615.76,55.0,5.0
+ORD1414,2023-11-21,Punjab,Clothing,Shoes,12,373.04,4476.48,46.0,5.0
+ORD1415,2023-05-27,KPK,Electronics,Mobile Phone,9,422.93,3806.37,61.0,4.0
+ORD1416,2023-05-21,KPK,Clothing,Jacket,19,455.87,8661.53,29.0,5.0
+ORD1417,2023-11-12,Sindh,Electronics,Laptop,10,78.17,781.7,38.0,5.0
+ORD1418,2023-01-24,Punjab,Toys,Action Figure,12,73.5,882.0,21.0,5.0
+ORD1419,2023-07-30,Balochistan,Electronics,Mobile Phone,12,499.74,5996.88,34.0,4.0
+ORD1420,2023-12-21,Punjab,Furniture,Bed,15,64.38,965.7,31.0,5.0
+ORD1421,2023-01-13,Punjab,Electronics,Smart Watch,18,280.51,5049.18,53.0,5.0
+ORD1422,2023-11-06,KPK,Electronics,Mobile Phone,1,400.16,400.16,40.0,5.0
+ORD1423,2023-10-01,Balochistan,Clothing,Shirt,3,164.66,493.98,61.0,2.0
+ORD1424,2023-12-22,Punjab,Furniture,Bed,11,190.22,2092.42,27.0,4.0
+ORD1425,2023-06-14,Islamabad,Toys,Puzzle,6,175.3,1051.8,,5.0
+ORD1426,2023-04-21,Punjab,Clothing,Jacket,6,270.16,1620.96,41.0,5.0
+ORD1427,2023-07-07,Sindh,Electronics,Smart Watch,6,383.53,2301.18,45.0,4.0
+ORD1428,2023-07-05,Balochistan,Electronics,Smart Watch,12,71.52,858.24,59.0,5.0
+ORD1429,2023-05-14,Islamabad,Electronics,Laptop,7,18.6,130.2,42.0,5.0
+ORD1430,2023-11-09,Balochistan,Clothing,Jacket,12,10.66,127.92,60.0,5.0
+ORD1431,2023-04-21,Balochistan,Toys,Board Game,19,21.56,409.64,28.0,5.0
+ORD1432,2023-08-02,Islamabad,Electronics,Smart Watch,4,450.73,1802.92,,3.0
+ORD1433,2023-07-24,Balochistan,Clothing,Jeans,15,39.26,588.9,61.0,2.0
+ORD1434,2023-04-29,Punjab,Clothing,Shoes,5,270.06,1350.3,37.0,4.0
+ORD1435,2023-01-17,Punjab,Furniture,Table,12,313.67,3764.04,43.0,5.0
+ORD1436,2023-09-24,KPK,Groceries,Rice,13,407.45,5296.85,57.0,5.0
+ORD1437,2023-11-17,KPK,Furniture,Sofa,17,474.22,8061.74,55.0,4.0
+ORD1438,2023-06-23,Punjab,Furniture,Chair,18,348.15,6266.7,22.0,4.0
+ORD1439,2023-08-14,Punjab,Electronics,Headphones,15,183.59,2753.85,38.0,
+ORD1440,2023-10-29,Sindh,Clothing,Jeans,13,234.71,3051.23,20.0,3.0
+ORD1441,2023-08-23,Balochistan,Toys,Doll,12,423.39,5080.68,28.0,5.0
+ORD1442,2023-03-11,Balochistan,Groceries,Cooking Oil,9,106.49,958.41,52.0,4.0
+ORD1443,2023-11-28,Punjab,Groceries,Flour,11,234.89,2583.79,35.0,4.0
+ORD1444,2023-04-18,Balochistan,Clothing,Jeans,19,368.74,7006.06,51.0,5.0
+ORD1445,2023-09-04,Sindh,Groceries,Rice,8,89.22,713.76,25.0,5.0
+ORD1446,2023-02-08,Punjab,Furniture,Sofa,17,89.72,1525.24,41.0,5.0
+ORD1447,2023-05-17,Balochistan,Toys,Puzzle,5,14.43,72.15,54.0,4.0
+ORD1448,2023-08-04,KPK,Furniture,Table,10,167.62,1676.2,19.0,4.0
+ORD1449,2023-06-04,Islamabad,Groceries,Flour,3,448.37,1345.11,62.0,3.0
+ORD1450,2023-02-03,KPK,Electronics,Laptop,19,252.39,4795.41,42.0,5.0
+ORD1451,2023-04-27,Balochistan,Electronics,Headphones,3,38.27,114.81,56.0,4.0
+ORD1452,2023-04-26,Islamabad,Electronics,Laptop,18,331.75,5971.5,18.0,3.0
+ORD1453,2023-12-09,Balochistan,Toys,Doll,10,421.51,4215.1,58.0,1.0
+ORD1454,2023-10-05,Punjab,Clothing,Shirt,2,342.98,685.96,58.0,
+ORD1455,2023-11-08,KPK,Toys,Doll,19,219.48,4170.12,29.0,5.0
+ORD1456,2023-07-18,Balochistan,Groceries,Rice,15,452.84,6792.6,43.0,5.0
+ORD1457,2023-10-06,Balochistan,Toys,Puzzle,10,445.55,4455.5,62.0,4.0
+ORD1458,2023-04-22,KPK,Electronics,Smart Watch,7,26.08,182.56,63.0,2.0
+ORD1459,2023-07-14,KPK,Furniture,Table,15,407.33,6109.95,57.0,1.0
+ORD1460,2023-01-24,Islamabad,Furniture,Table,10,414.15,4141.5,51.0,5.0
+ORD1461,2023-10-06,Balochistan,Toys,Doll,13,28.41,369.33,58.0,1.0
+ORD1462,2023-11-09,Islamabad,Electronics,Smart Watch,10,108.27,1082.7,56.0,4.0
+ORD1463,2023-06-28,KPK,Toys,Doll,15,103.65,1554.75,29.0,3.0
+ORD1464,2023-12-09,Punjab,Furniture,Sofa,18,449.06,8083.08,54.0,5.0
+ORD1465,2023-02-16,Punjab,Groceries,Cooking Oil,4,492.58,1970.32,39.0,4.0
+ORD1466,2023-09-29,Punjab,Toys,Doll,10,357.57,3575.7,51.0,5.0
+ORD1467,2023-01-10,KPK,Electronics,Mobile Phone,17,304.76,5180.92,64.0,5.0
+ORD1468,2023-11-17,Punjab,Toys,Action Figure,19,190.95,3628.05,58.0,4.0
+ORD1469,2023-07-17,KPK,Clothing,Shoes,1,69.79,69.79,56.0,5.0
+ORD1470,2023-09-08,Sindh,Electronics,Mobile Phone,9,105.67,951.03,30.0,3.0
+ORD1471,2023-01-03,Islamabad,Furniture,Bed,17,353.57,6010.69,29.0,5.0
+ORD1472,2023-12-03,Punjab,Toys,Board Game,3,246.43,739.29,53.0,5.0
+ORD1473,2023-12-05,Punjab,Furniture,Table,11,421.11,4632.21,57.0,5.0
+ORD1474,2023-07-08,Sindh,Electronics,Laptop,4,283.9,1135.6,46.0,5.0
+ORD1475,2023-06-17,Punjab,Electronics,Mobile Phone,19,220.5,4189.5,22.0,5.0
+ORD1476,2023-05-27,KPK,Toys,Doll,12,121.1,1453.2,60.0,5.0
+ORD1477,2023-05-31,Balochistan,Furniture,Sofa,2,436.99,873.98,54.0,2.0
+ORD1478,2023-06-28,KPK,Groceries,Flour,18,131.28,2363.04,25.0,2.0
+ORD1479,2023-11-27,Islamabad,Electronics,Smart Watch,5,182.95,914.75,34.0,5.0
+ORD1480,2023-11-30,Balochistan,Toys,Action Figure,5,43.49,217.45,50.0,4.0
+ORD1481,2023-02-16,Islamabad,Electronics,Headphones,7,472.78,3309.46,30.0,5.0
+ORD1482,2023-09-05,Islamabad,Groceries,Sugar,18,471.22,8481.96,58.0,
+ORD1483,2023-07-21,Islamabad,Clothing,Jeans,17,60.53,1029.01,22.0,
+ORD1484,2023-08-07,Sindh,Electronics,Mobile Phone,17,204.83,3482.11,20.0,3.0
+ORD1485,2023-05-04,Sindh,Electronics,Headphones,10,347.99,3479.9,43.0,5.0
+ORD1486,2023-02-10,Balochistan,Groceries,Rice,12,234.43,2813.16,52.0,5.0
+ORD1487,2023-05-14,KPK,Toys,Puzzle,15,286.19,4292.85,26.0,5.0
+ORD1488,2023-02-28,Balochistan,Electronics,Headphones,2,434.39,868.78,18.0,3.0
+ORD1489,2023-03-20,Islamabad,Electronics,Laptop,19,442.67,8410.73,39.0,5.0
+ORD1490,2023-10-28,Balochistan,Electronics,Mobile Phone,4,468.77,1875.08,26.0,4.0
+ORD1491,2023-03-14,Balochistan,Electronics,Laptop,13,312.45,4061.85,49.0,5.0
+ORD1492,2023-10-10,Sindh,Electronics,Laptop,18,55.39,997.02,38.0,5.0
+ORD1493,2023-04-03,Balochistan,Furniture,Sofa,9,224.81,2023.29,36.0,4.0
+ORD1494,2023-02-10,Punjab,Electronics,Headphones,10,353.43,3534.3,62.0,2.0
+ORD1495,2023-02-16,Balochistan,Electronics,Mobile Phone,1,115.06,115.06,22.0,2.0
+ORD1496,2023-03-02,KPK,Clothing,Shoes,18,369.04,6642.72,50.0,5.0
+ORD1497,2023-12-04,Sindh,Clothing,Jeans,6,197.81,1186.86,53.0,5.0
+ORD1498,2023-12-24,KPK,Toys,Doll,1,134.15,134.15,44.0,4.0
+ORD1499,2023-07-28,Sindh,Groceries,Flour,9,111.05,999.45,60.0,4.0
+ORD1304,2023-08-18,Islamabad,Groceries,Flour,8,97.4,779.2,27.0,5.0
+ORD1340,2023-12-30,KPK,Furniture,Chair,12,163.89,1966.68,41.0,4.0
+ORD1047,2023-12-16,Balochistan,Toys,Doll,15,352.76,5291.4,57.0,5.0
+ORD1067,2023-08-23,Islamabad,Toys,Board Game,11,67.36,740.96,29.0,5.0
+ORD1479,2023-11-27,Islamabad,Electronics,Smart Watch,5,182.95,914.75,34.0,5.0
